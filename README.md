@@ -1,37 +1,21 @@
 # React TS Learn
 
-Ứng dụng học `HTML -> CSS -> TypeScript -> React` được xây bằng `React + TypeScript + Vite`.
+React TS Learn la mot web hoc lap trinh frontend theo lo trinh:
 
-## Yêu cầu
+- HTML
+- CSS
+- TypeScript
+- React
 
-- `Node.js` 20 trở lên
-- `npm` đi kèm với Node
+Web duoc thiet ke theo kieu vua hoc ly thuyet, vua xem vi du, vua tu sua code truc tiep de thay ket qua ngay.
 
-## Chạy ở máy khác
+## Diem chinh
 
-```bash
-npm install
-npm run dev
-```
+- Lo trinh hoc tu co ban den nang cao hon
+- Moi bai hoc co tom tat, ly thuyet, vi du va bai tap
+- Playground cho phep sua code va xem preview ngay tren web
+- Luu tien do hoc de tiep tuc o nhung lan mo sau
 
-Mở trình duyệt tại địa chỉ Vite in ra trong terminal, thường là `http://localhost:5173`.
+## Muc tieu
 
-## Các lệnh chính
-
-```bash
-npm run dev
-npm run build
-npm run lint
-npm run preview
-```
-
-## Cấu trúc chính
-
-- `src/data/lessons`: nội dung các bài học
-- `src/components`: giao diện và playground
-- `src/hooks`: logic điều hướng bài học và lưu tiến độ
-
-## Ghi chú
-
-- Không commit `node_modules` và `dist`
-- Nếu clone về máy khác mà `npm install` bị lỗi mạng, cần kiểm tra lại npm registry hoặc proxy/VPN của máy đó
+Du an huong toi viec tao ra mot trang hoc React TypeScript de hieu, de tu hoc va de mo rong them bai hoc ve sau.
